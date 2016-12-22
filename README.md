@@ -4,7 +4,9 @@ Taking 4.5 courses:
 
 1. Python Data Structures (Dec - Jan).
 2. Intro to Interactive Programming in Python 1 and 2 (Dec - Feb).
+
    Includes:
+   
            1. Rock Paper Scissors Lizard Spock game
            2. Guess the Number Game
            3. Random GUI programmes that draw to canvas and do various tasks (eg. simple calculator)
